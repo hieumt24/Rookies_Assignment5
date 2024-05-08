@@ -138,8 +138,9 @@ namespace Assignment5.WebApp.Areas.NashTech.Controllers
 
         public IActionResult GetMaleMember()
         {
+
             var listPerson = _personService.GetMaleMembers();
-            return View("Index", listPerson);
+            return View(listPerson);
         }
         public IActionResult GetOldestMember()
         {

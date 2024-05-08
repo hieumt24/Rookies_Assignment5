@@ -15,3 +15,4 @@ D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Servic
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Services\obj\Debug\net8.0\refint\Assignment5.Application.dll
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Services\obj\Debug\net8.0\Assignment5.Application.pdb
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Services\obj\Debug\net8.0\ref\Assignment5.Application.dll
+D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Services\obj\Debug\net8.0\Assignment5.Application.sourcelink.json

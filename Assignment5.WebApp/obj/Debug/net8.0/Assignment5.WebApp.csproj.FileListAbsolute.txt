@@ -237,3 +237,4 @@ D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.WebApp
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.WebApp\bin\Debug\net8.0\Assignment5.Domain.pdb
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.WebApp\bin\Debug\net8.0\Assignment5.Infrastructure.pdb
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.WebApp\obj\Debug\net8.0\scopedcss\Areas\NashTech\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.WebApp\obj\Debug\net8.0\Assignment5.WebApp.sourcelink.json

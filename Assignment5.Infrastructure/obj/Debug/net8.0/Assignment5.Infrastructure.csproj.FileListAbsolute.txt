@@ -13,3 +13,4 @@ D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Infras
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Infrastructure\obj\Debug\net8.0\refint\Assignment5.Infrastructure.dll
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Infrastructure\obj\Debug\net8.0\Assignment5.Infrastructure.pdb
 D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Infrastructure\obj\Debug\net8.0\ref\Assignment5.Infrastructure.dll
+D:\DEV\Nashtech\Tranning\Rookies\ASP Net Core MVC\Assignment5\Assignment5.Infrastructure\obj\Debug\net8.0\Assignment5.Infrastructure.sourcelink.json
