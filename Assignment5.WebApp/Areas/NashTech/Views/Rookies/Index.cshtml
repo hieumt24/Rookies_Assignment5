@@ -5,6 +5,12 @@
 @{
     ViewData["Title"] = "List Person";
 }
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @TempData["SuccessMessage"]
+    </div>
+}
 
 <h1>List Person</h1>
 <h2>Total Person : @ViewBag.TotalPerson</h2>

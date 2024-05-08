@@ -20,6 +20,7 @@ namespace Assignment5.WebApp.Areas.NashTech.Controllers
         public IActionResult Index(string nameFilter)
         {
             
+
             var query = _personService.GetAll().AsQueryable();
 
             if (!string.IsNullOrEmpty(nameFilter))
@@ -66,6 +67,7 @@ namespace Assignment5.WebApp.Areas.NashTech.Controllers
                 try
                 {
                     _personService.Create(person);
+                    TempData["SuccessMessage"] = "Add has been successfully added.";
                     return RedirectToAction(nameof(Index));
                 }
                 catch (Exception ex)
@@ -81,6 +83,7 @@ namespace Assignment5.WebApp.Areas.NashTech.Controllers
             try
             {
                 _personService.Delete(id);
+                TempData["SuccessMessage"] = "Delete person has been successfully.";
                 return RedirectToAction(nameof(Index));
             }
             catch (Exception ex)
@@ -113,6 +116,7 @@ namespace Assignment5.WebApp.Areas.NashTech.Controllers
                 try
                 {
                     _personService.Update(person);
+                    TempData["SuccessMessage"] = "Update person has been successfully.";
                     return RedirectToAction(nameof(Index));
                 }
                 catch (Exception ex)
