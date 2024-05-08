@@ -1,0 +1,25 @@
+﻿@model IEnumerable<string>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Full Member Names";
+}
+
+<h2>Full Member Names</h2>
+
+@if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var fullName in Model)
+        {
+            <li>@fullName</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No members to display.</p>
+}
