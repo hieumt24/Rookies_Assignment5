@@ -292,7 +292,7 @@ namespace Assignment5.Application.Tests.Services
                 Id = Guid.NewGuid(),
                 FirstName = "John",
                 LastName = "Doe",
-                DateOfBirth = new DateTime(1950, 1, 1) // Oldest person's date of birth
+                DateOfBirth = new DateTime(1950, 1, 1)
             };
 
             var youngPerson = new Person
@@ -300,7 +300,7 @@ namespace Assignment5.Application.Tests.Services
                 Id = Guid.NewGuid(),
                 FirstName = "Alice",
                 LastName = "Johnson",
-                DateOfBirth = new DateTime(2000, 1, 1) // Young person's date of birth
+                DateOfBirth = new DateTime(2000, 1, 1)
             };
 
             var persons = new List<Person> { oldestPerson, youngPerson };

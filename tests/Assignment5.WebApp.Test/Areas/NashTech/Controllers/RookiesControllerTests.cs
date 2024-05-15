@@ -34,10 +34,10 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ViewName); // Giả sử view cho index được gọi là "Index"
+            Assert.Equal("Index", result.ViewName);
             var model = result.Model as IQueryable<Person>;
             Assert.NotNull(model);
-            Assert.Equal(2, model.Count()); // Có 2 Person trong danh sách
+            Assert.Equal(2, model.Count());
         }
 
         [Fact]
@@ -48,21 +48,21 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Create", result.ViewName); // Giả sử view cho create được gọi là "Create"
+            Assert.Equal("Create", result.ViewName);
         }
 
         [Fact]
         public void Create_ReturnsRedirectToActionResult_WhenModelStateIsValid()
         {
             // Arrange
-            var person = new Person { /* Initialize properties */ };
+            var person = new Person { };
 
             // Act
             var result = _controller.Create(person) as RedirectToActionResult;
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
             _mockPersonService.Verify(service => service.Create(person), Times.Once);
         }
 
@@ -71,7 +71,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
         {
             // Arrange
             _controller.ModelState.AddModelError("FirstName", "Required");
-            var person = new Person { /* Initialize properties */ };
+            var person = new Person { };
 
             // Act
             var result = _controller.Create(person) as ViewResult;
@@ -85,7 +85,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
         public void Create_AddsModelError_WhenExceptionOccurs()
         {
             // Arrange
-            var person = new Person { /* Initialize properties */ };
+            var person = new Person { };
             var exceptionMessage = "Test exception";
             _mockPersonService.Setup(service => service.Create(person)).Throws(new Exception(exceptionMessage));
 
@@ -109,7 +109,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
             _mockPersonService.Verify(service => service.Delete(personId), Times.Once);
         }
 
@@ -142,7 +142,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
@@ -157,7 +157,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
@@ -165,7 +165,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
         {
             // Arrange
             Guid id = Guid.NewGuid();
-            var person = new Person { Id = id, /* Set other properties */ };
+            var person = new Person { Id = id, };
             _mockPersonService.Setup(service => service.GetPersonById(id)).Returns(person);
 
             // Act
@@ -181,7 +181,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
         {
             // Arrange
             var personId = Guid.NewGuid();
-            var person = new Person { Id = personId, /* Other properties */ };
+            var person = new Person { Id = personId, };
             _mockPersonService.Setup(service => service.GetPersonById(personId)).Returns(person);
 
             // Act
@@ -204,7 +204,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
@@ -215,7 +215,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
@@ -224,9 +224,9 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
             // Arrange
             var malePersons = new List<Person>
             {
-                new Person { Id = Guid.NewGuid(), Gender = GenderType.Male, /* Other properties */ },
-                new Person { Id = Guid.NewGuid(), Gender = GenderType.Male, /* Other properties */ },
-                new Person { Id = Guid.NewGuid(), Gender = GenderType.Male, /* Other properties */ }
+                new Person { Id = Guid.NewGuid(), Gender = GenderType.Male,},
+                new Person { Id = Guid.NewGuid(), Gender = GenderType.Male, },
+                new Person { Id = Guid.NewGuid(), Gender = GenderType.Male,}
             };
             _mockPersonService.Setup(service => service.GetMaleMembers()).Returns(malePersons);
 
@@ -251,14 +251,14 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
         public void GetOldestMember_ReturnsViewResult_WithOldestPerson_WhenOldestPersonExists()
         {
             // Arrange
-            var oldestPerson = new Person { Id = Guid.NewGuid(), /* Other properties */ };
+            var oldestPerson = new Person { Id = Guid.NewGuid(), };
             _mockPersonService.Setup(service => service.GetOldestMember()).Returns(oldestPerson);
 
             // Act
@@ -266,7 +266,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Details", result.ViewName); // Assuming the view name for Details is "Details"
+            Assert.Equal("Details", result.ViewName);
             var model = result.Model as Person;
             Assert.NotNull(model);
             Assert.Equal(oldestPerson.Id, model.Id);
@@ -283,7 +283,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
@@ -298,7 +298,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("FullNames", result.ViewName); // Assuming the view name for FullNames is "FullNames"
+            Assert.Equal("FullNames", result.ViewName);
             var model = result.Model as List<string>;
             Assert.NotNull(model);
             Assert.Equal(memberFullNames.Count, model.Count);
@@ -315,7 +315,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
@@ -324,9 +324,9 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
             // Arrange
             var filteredPersons = new List<Person>
             {
-                new Person { Id = Guid.NewGuid(), /* Other properties */ },
-                new Person { Id = Guid.NewGuid(), /* Other properties */ },
-                new Person { Id = Guid.NewGuid(), /* Other properties */ }
+                new Person { Id = Guid.NewGuid(),  },
+                new Person { Id = Guid.NewGuid(),  },
+                new Person { Id = Guid.NewGuid(), }
             };
             _mockPersonService.Setup(service => service.FilterMembersByBirthYear(It.IsAny<int>(), It.IsAny<string>())).Returns(filteredPersons);
 
@@ -335,7 +335,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ViewName); // Assuming the view name for Index is "Index"
+            Assert.Equal("Index", result.ViewName);
             var model = result.Model as List<Person>;
             Assert.NotNull(model);
             Assert.Equal(filteredPersons.Count, model.Count);
@@ -352,14 +352,14 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
         public void ExportToExcel_ReturnsFileResult_WhenFileIsNotNull()
         {
             // Arrange
-            byte[] excelFile = new byte[] { /* Excel file content */ };
+            byte[] excelFile = new byte[] { };
             _mockPersonService.Setup(service => service.GetMembersAsExcelFile()).Returns(excelFile);
 
             // Act
@@ -383,14 +383,14 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Assuming the action name for Index is "Index"
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
         public void Edit_ReturnsView_WhenModelStateIsInvalid()
         {
             // Arrange
-            _controller.ModelState.AddModelError("FirstName", "Required"); // Simulating ModelState error
+            _controller.ModelState.AddModelError("FirstName", "Required");
             var invalidPerson = new Person { Id = Guid.NewGuid(), FirstName = "John", LastName = "Doe" };
 
             // Act
@@ -398,7 +398,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal(invalidPerson, result.Model); // Ensuring the model passed to the view is the same as the invalid person
+            Assert.Equal(invalidPerson, result.Model);
         }
 
         [Fact]
@@ -412,7 +412,7 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.Equal("Index", result.ActionName); // Ensuring the action redirects to the Index action
+            Assert.Equal("Index", result.ActionName);
         }
 
         [Fact]
@@ -428,8 +428,8 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
 
             // Assert
             Assert.NotNull(result);
-            Assert.True(_controller.ModelState.ContainsKey(string.Empty)); // Ensuring that the error message is added to the model state
-            Assert.Contains(errorMessage, _controller.ModelState[string.Empty].Errors[0].ErrorMessage); // Ensuring that the correct error message is added
+            Assert.True(_controller.ModelState.ContainsKey(string.Empty));
+            Assert.Contains(errorMessage, _controller.ModelState[string.Empty].Errors[0].ErrorMessage);
         }
     }
 }
