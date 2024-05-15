@@ -3,140 +3,200 @@
   "WorkspaceRootPath": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\rookies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\rookies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA93803A-B6AD-4BBB-A5E9-B01C57EEC115}|tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\tests\\assignment5.applicationtests\\services\\personservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA93803A-B6AD-4BBB-A5E9-B01C57EEC115}|tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj|solutionrelative:tests\\assignment5.applicationtests\\services\\personservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\controllers\\rookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\controllers\\rookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{854CC91A-FB84-435D-8286-439AEBCECC81}|tests\\Assignment5.Infrastructure.Tests\\Assignment5.Infrastructure.Tests.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\tests\\assignment5.infrastructure.tests\\repositories\\personrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CC91A-FB84-435D-8286-439AEBCECC81}|tests\\Assignment5.Infrastructure.Tests\\Assignment5.Infrastructure.Tests.csproj|solutionrelative:tests\\assignment5.infrastructure.tests\\repositories\\personrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\rookies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\rookies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E69BB2BC-FDA3-4919-B958-951DC9099381}|src\\Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\src\\assignment5.infrastructure\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69BB2BC-FDA3-4919-B958-951DC9099381}|src\\Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|solutionrelative:src\\assignment5.infrastructure\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\rookies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\rookies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E69BB2BC-FDA3-4919-B958-951DC9099381}|src\\Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\src\\assignment5.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69BB2BC-FDA3-4919-B958-951DC9099381}|src\\Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|solutionrelative:src\\assignment5.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\rookies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\rookies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{854CC91A-FB84-435D-8286-439AEBCECC81}|tests\\Assignment5.Infrastructure.Tests\\Assignment5.Infrastructure.Tests.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\tests\\assignment5.infrastructure.tests\\mydbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854CC91A-FB84-435D-8286-439AEBCECC81}|tests\\Assignment5.Infrastructure.Tests\\Assignment5.Infrastructure.Tests.csproj|solutionrelative:tests\\assignment5.infrastructure.tests\\mydbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C00EA940-5C4F-4BA1-B1C5-81C194BC697C}|Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C00EA940-5C4F-4BA1-B1C5-81C194BC697C}|Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|solutionrelative:assignment5.infrastructure\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5D3D031-8EDB-495B-A9CB-3CD34584BC4A}|src\\Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\src\\assignment5.webapp\\areas\\nashtech\\controllers\\rookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D3D031-8EDB-495B-A9CB-3CD34584BC4A}|src\\Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:src\\assignment5.webapp\\areas\\nashtech\\controllers\\rookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E7D60E-4111-4CAE-AD8F-EEC1969D0A77}|tests\\Assignment5.WebApp.Test\\Assignment5.WebApp.Test.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\tests\\assignment5.webapp.test\\areas\\nashtech\\controllers\\rookiescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E7D60E-4111-4CAE-AD8F-EEC1969D0A77}|tests\\Assignment5.WebApp.Test\\Assignment5.WebApp.Test.csproj|solutionrelative:tests\\assignment5.webapp.test\\areas\\nashtech\\controllers\\rookiescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA93803A-B6AD-4BBB-A5E9-B01C57EEC115}|tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\tests\\assignment5.applicationtests\\assignment5.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA93803A-B6AD-4BBB-A5E9-B01C57EEC115}|tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj|solutionrelative:tests\\assignment5.applicationtests\\assignment5.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55D663-7B58-4B3C-A908-C2CB676993DB}|src\\Assignment5.Services\\Assignment5.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\src\\assignment5.services\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55D663-7B58-4B3C-A908-C2CB676993DB}|src\\Assignment5.Services\\Assignment5.Application.csproj|solutionrelative:src\\assignment5.services\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55D663-7B58-4B3C-A908-C2CB676993DB}|src\\Assignment5.Services\\Assignment5.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\src\\assignment5.services\\assignment5.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD55D663-7B58-4B3C-A908-C2CB676993DB}|src\\Assignment5.Services\\Assignment5.Application.csproj|solutionrelative:src\\assignment5.services\\assignment5.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD55D663-7B58-4B3C-A908-C2CB676993DB}|src\\Assignment5.Services\\Assignment5.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\src\\assignment5.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD55D663-7B58-4B3C-A908-C2CB676993DB}|src\\Assignment5.Services\\Assignment5.Application.csproj|solutionrelative:src\\assignment5.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Interfaces\\IPersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Services\\Interfaces\\IPersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\rookies\\getmalemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\rookies\\getmalemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\shared\\_paging.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\shared\\_paging.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\rookies\\fullnames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\rookies\\fullnames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA782067-DAD6-444A-9224-5718A567707C}|Assignment5.Services\\Assignment5.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.services\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA782067-DAD6-444A-9224-5718A567707C}|Assignment5.Services\\Assignment5.Application.csproj|solutionrelative:assignment5.services\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.domain\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|solutionrelative:assignment5.domain\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA782067-DAD6-444A-9224-5718A567707C}|Assignment5.Services\\Assignment5.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA782067-DAD6-444A-9224-5718A567707C}|Assignment5.Services\\Assignment5.Application.csproj|solutionrelative:assignment5.services\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|solutionrelative:assignment5.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C00EA940-5C4F-4BA1-B1C5-81C194BC697C}|Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.infrastructure\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C00EA940-5C4F-4BA1-B1C5-81C194BC697C}|Assignment5.Infrastructure\\Assignment5.Infrastructure.csproj|solutionrelative:assignment5.infrastructure\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\helpers\\pagingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\helpers\\pagingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|solutionrelative:assignment5.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.domain\\enums\\gendertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D7FB9C6-F1DB-43A6-AA79-DAB036F4DB29}|Assignment5.Domain\\Assignment5.Domain.csproj|solutionrelative:assignment5.domain\\enums\\gendertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\assignment5.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\assignment5.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\areas\\nashtech\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\areas\\nashtech\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA782067-DAD6-444A-9224-5718A567707C}|Assignment5.Services\\Assignment5.Application.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.services\\assignment5.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CA782067-DAD6-444A-9224-5718A567707C}|Assignment5.Services\\Assignment5.Application.csproj|solutionrelative:assignment5.services\\assignment5.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.BusinessLogic\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.BusinessLogic\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|d:\\dev\\nashtech\\tranning\\rookies\\asp net core mvc\\assignment5\\assignment5.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6BEC6F8F-E4E3-4A76-B383-0A6FAA671144}|Assignment5.WebApp\\Assignment5.WebApp.csproj|solutionrelative:assignment5.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Models\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Models\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Entities\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Domain\\Entities\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Enums\\GenderType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Domain\\Enums\\GenderType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Interfaces\\IPersonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Domain\\Interfaces\\IPersonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Domain\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Infrastructure\\Repositories\\PersonRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\MyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Infrastructure\\MyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Services\\Services\\PersonService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Paging.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Paging.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\GetMaleMember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\GetMaleMember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\FullNames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\FullNames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Helpers\\PagingModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Helpers\\PagingModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Assignment5.WebApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Assignment5.WebApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Assignment5.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Services\\Assignment5.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.ApplicationTests\\obj\\Debug\\net8.0\\Assignment5.Application.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Assignment5.ApplicationTests\\obj\\Debug\\net8.0\\Assignment5.Application.Tests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure.Tests\\MyDbContextTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.Infrastructure.Tests\\MyDbContextTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp.Tests\\Areas\\NashTech\\Controllers\\RookiesControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment5.WebApp.Tests\\Areas\\NashTech\\Controllers\\RookiesControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -145,8 +205,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 1524,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,7 +214,350 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RookiesController.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "RelativeDocumentMoniker": "src\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "RelativeToolTip": "src\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:24:36.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonServiceTests.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.ApplicationTests\\Services\\PersonServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\Assignment5.ApplicationTests\\Services\\PersonServiceTests.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.ApplicationTests\\Services\\PersonServiceTests.cs",
+              "RelativeToolTip": "tests\\Assignment5.ApplicationTests\\Services\\PersonServiceTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:32:32.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonRepositoryTests.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "RelativeToolTip": "tests\\Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:30:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContextTests.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "RelativeDocumentMoniker": "tests\\Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "RelativeToolTip": "tests\\Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:29:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Infrastructure\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Assignment5.Infrastructure\\MyDbContext.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Infrastructure\\MyDbContext.cs",
+              "RelativeToolTip": "src\\Assignment5.Infrastructure\\MyDbContext.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwHEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:10:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "src\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "src\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwLIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:14:13.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "RookiesControllerTests.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.WebApp.Test\\Areas\\NashTech\\Controllers\\RookiesControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Assignment5.WebApp.Test\\Areas\\NashTech\\Controllers\\RookiesControllerTests.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.WebApp.Test\\Areas\\NashTech\\Controllers\\RookiesControllerTests.cs",
+              "RelativeToolTip": "tests\\Assignment5.WebApp.Test\\Areas\\NashTech\\Controllers\\RookiesControllerTests.cs",
+              "ViewState": "AQIAAJABAAAAAAAAAAAuwLABAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:52:08.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assignment5.Application.Tests.csproj",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj",
+              "RelativeToolTip": "tests\\Assignment5.ApplicationTests\\Assignment5.Application.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T09:26:37.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Services\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "src\\Assignment5.Services\\Services\\PersonService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Services\\Services\\PersonService.cs",
+              "RelativeToolTip": "src\\Assignment5.Services\\Services\\PersonService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvyoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:30:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PersonRepositoryTests.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "RelativeToolTip": "Assignment5.Infrastructure.Tests\\Repositories\\PersonRepositoryTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:14:03.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MyDbContextTests.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "RelativeDocumentMoniker": "Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "RelativeToolTip": "Assignment5.Infrastructure.Tests\\MyDbContextTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:10:40.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RookiesControllerTest.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp.Tests\\Areas\\NashTech\\Controllers\\RookiesControllerTest.cs",
+              "RelativeDocumentMoniker": "Assignment5.WebApp.Tests\\Areas\\NashTech\\Controllers\\RookiesControllerTest.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp.Tests\\Areas\\NashTech\\Controllers\\RookiesControllerTest.cs",
+              "RelativeToolTip": "Assignment5.WebApp.Tests\\Areas\\NashTech\\Controllers\\RookiesControllerTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:15:47.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment5.Application.csproj",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Services\\Assignment5.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Assignment5.Services\\Assignment5.Application.csproj",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Services\\Assignment5.Application.csproj",
+              "RelativeToolTip": "src\\Assignment5.Services\\Assignment5.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T08:26:49.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "src\\Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\src\\Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "src\\Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:30:19.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Assignment5.Application.Tests.GlobalUsings.g.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.ApplicationTests\\obj\\Debug\\net8.0\\Assignment5.Application.Tests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "tests\\Assignment5.ApplicationTests\\obj\\Debug\\net8.0\\Assignment5.Application.Tests.GlobalUsings.g.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\tests\\Assignment5.ApplicationTests\\obj\\Debug\\net8.0\\Assignment5.Application.Tests.GlobalUsings.g.cs",
+              "RelativeToolTip": "tests\\Assignment5.ApplicationTests\\obj\\Debug\\net8.0\\Assignment5.Application.Tests.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:40:45.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
+              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:09:08.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
+              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:02:40.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
+              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:17:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "Assignment5.Services\\Interfaces\\IPersonService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:30:52.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Assignment5.Domain\\Entities\\Person.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "Assignment5.Domain\\Entities\\Person.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:56:53.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenderType.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Enums\\GenderType.cs",
+              "RelativeDocumentMoniker": "Assignment5.Domain\\Enums\\GenderType.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Enums\\GenderType.cs",
+              "RelativeToolTip": "Assignment5.Domain\\Enums\\GenderType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:57:42.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:25:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Assignment5.Domain\\BaseEntity.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "Assignment5.Domain\\BaseEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:53:19.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:46:06.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment5.Infrastructure\\MyDbContext.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\MyDbContext.cs",
+              "RelativeToolTip": "Assignment5.Infrastructure\\MyDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:11:02.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
+              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:59:36.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RookiesController.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:58:23.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:31:19.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Assignment5.Services\\Services\\PersonService.cs",
+              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Services\\PersonService.cs",
+              "RelativeToolTip": "Assignment5.Services\\Services\\PersonService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:36:55.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": ".gitattributes",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\.gitattributes",
               "RelativeDocumentMoniker": ".gitattributes",
@@ -167,373 +570,183 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "Assignment5.Services\\Services\\PersonService.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Services\\PersonService.cs",
-              "RelativeToolTip": "Assignment5.Services\\Services\\PersonService.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAiwDwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:36:55.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
-              "RelativeToolTip": "Assignment5.Domain\\Interfaces\\IPersonRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:25:09.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
-              "RelativeToolTip": "Assignment5.Infrastructure\\Repositories\\PersonRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T06:46:06.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:31:19.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RookiesController.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
-              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
-              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Controllers\\RookiesController.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAawFYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T04:58:23.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
-              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
-              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:09:08.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
-              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
-              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:59:36.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
-              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:02:40.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
-              "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
-              "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:17:00.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "Assignment5.Domain\\Entities\\Person.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Entities\\Person.cs",
-              "RelativeToolTip": "Assignment5.Domain\\Entities\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:56:53.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "_Paging.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Paging.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Paging.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Paging.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_Paging.cshtml",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAG4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T23:46:57.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T09:18:21.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "GetMaleMember.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\GetMaleMember.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\GetMaleMember.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\GetMaleMember.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\GetMaleMember.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-08T05:30:20.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 31,
               "Title": "FullNames.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\FullNames.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\FullNames.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\FullNames.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Rookies\\FullNames.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T15:51:23.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IPersonService.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Interfaces\\IPersonService.cs",
-              "RelativeDocumentMoniker": "Assignment5.Services\\Interfaces\\IPersonService.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Interfaces\\IPersonService.cs",
-              "RelativeToolTip": "Assignment5.Services\\Interfaces\\IPersonService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:30:52.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "Assignment5.Infrastructure\\MyDbContext.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Infrastructure\\MyDbContext.cs",
-              "RelativeToolTip": "Assignment5.Infrastructure\\MyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T00:11:02.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "PagingModel.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Helpers\\PagingModel.cs",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Helpers\\PagingModel.cs",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Helpers\\PagingModel.cs",
               "RelativeToolTip": "Assignment5.WebApp\\Helpers\\PagingModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T23:43:40.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GenderType.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Enums\\GenderType.cs",
-              "RelativeDocumentMoniker": "Assignment5.Domain\\Enums\\GenderType.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\Enums\\GenderType.cs",
-              "RelativeToolTip": "Assignment5.Domain\\Enums\\GenderType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:57:42.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "Assignment5.WebApp.csproj",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Assignment5.WebApp.csproj",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Assignment5.WebApp.csproj",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Assignment5.WebApp.csproj",
               "RelativeToolTip": "Assignment5.WebApp\\Assignment5.WebApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-07T14:35:16.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Assignment5.Domain\\BaseEntity.cs",
-              "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Domain\\BaseEntity.cs",
-              "RelativeToolTip": "Assignment5.Domain\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T00:53:19.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewImports.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T09:17:39.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\Error.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T09:18:07.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Program.cs",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Program.cs",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Program.cs",
               "RelativeToolTip": "Assignment5.WebApp\\Program.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAcwB8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T07:40:49.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T14:09:24.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewStart.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Areas\\NashTech\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T14:08:15.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T14:08:56.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Views\\_ViewStart.cshtml",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Assignment5.WebApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T08:26:08.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 41,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\ScaffoldingReadMe.txt",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "Assignment5.WebApp\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-05-07T08:01:52.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "Assignment5.Application.csproj",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Assignment5.Application.csproj",
               "RelativeDocumentMoniker": "Assignment5.Services\\Assignment5.Application.csproj",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Services\\Assignment5.Application.csproj",
               "RelativeToolTip": "Assignment5.Services\\Assignment5.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-07T07:27:55.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\Properties\\launchSettings.json",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "Assignment5.WebApp\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-06T07:47:24.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.BusinessLogic\\Class1.cs",
               "RelativeDocumentMoniker": "Assignment5.BusinessLogic\\Class1.cs",
@@ -544,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Assignment5.Models\\BaseEntity.cs",
@@ -555,15 +768,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\appsettings.json",
               "RelativeDocumentMoniker": "Assignment5.WebApp\\appsettings.json",
               "ToolTip": "D:\\DEV\\Nashtech\\Tranning\\Rookies\\ASP Net Core MVC\\Assignment5\\Assignment5.WebApp\\appsettings.json",
               "RelativeToolTip": "Assignment5.WebApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-06T07:40:50.04Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
