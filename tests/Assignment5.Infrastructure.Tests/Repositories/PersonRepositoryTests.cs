@@ -112,6 +112,18 @@ namespace Assignment5.Infrastructure.Tests.Repositories
         }
 
         [Fact]
+        public void DeletePerson_NonExistingId_ThrowsArgumentException()
+        {
+            // Arrange
+            var repository = new PersonRepository();
+            var nonExistingId = Guid.NewGuid();
+
+            // Act & Assert
+            var exception = Assert.Throws<ArgumentException>(() => repository.DeletePerson(nonExistingId));
+            Assert.Equal("Person not found. (Parameter 'id')", exception.Message);
+        }
+
+        [Fact]
         public void UpdatePerson_ShouldUpdatePersonDetails_WhenPersonExists()
         {
             // Arrange
@@ -141,6 +153,27 @@ namespace Assignment5.Infrastructure.Tests.Repositories
             Assert.Equal(updatedPerson.PhoneNumber, updatedPersonFromRepo.PhoneNumber);
             Assert.Equal(updatedPerson.BirthPlace, updatedPersonFromRepo.BirthPlace);
             Assert.Equal(updatedPerson.IsGraduated, updatedPersonFromRepo.IsGraduated);
+        }
+
+        [Fact]
+        public void UpdatePerson_NonExistingPerson_ThrowsArgumentException()
+        {
+            // Arrange
+            var nonExistingPerson = new Person
+            {
+                Id = Guid.NewGuid(),
+                FirstName = "NonExisting",
+                LastName = "Person",
+                Gender = GenderType.Male,
+                DateOfBirth = new DateTime(1990, 1, 1),
+                PhoneNumber = "1234567890",
+                BirthPlace = "Unknown",
+                IsGraduated = false
+            };
+
+            // Act & Assert
+            var exception = Assert.Throws<ArgumentException>(() => _repository.UpdatePerson(nonExistingPerson));
+            Assert.Equal("Person not found. (Parameter 'Id')", exception.Message);
         }
 
         [Fact]
@@ -183,7 +216,18 @@ namespace Assignment5.Infrastructure.Tests.Repositories
             Assert.NotNull(person);
             Assert.Equal(expectedPerson.Id, person.Id);
             Assert.Equal(expectedPerson.FirstName, person.FirstName);
-            // ... assert other properties as necessary
+        }
+
+        [Fact]
+        public void GetPersonById_NonExistingPerson_ThrowsArgumentException()
+        {
+            // Arrange
+            var repository = new PersonRepository();
+            var nonExistingId = Guid.NewGuid();
+
+            // Act & Assert
+            var exception = Assert.Throws<ArgumentException>(() => repository.GetPersonById(nonExistingId));
+            Assert.Equal("Person not found. (Parameter 'id')", exception.Message);
         }
     }
 }
