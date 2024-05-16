@@ -216,6 +216,9 @@ namespace Assignment5.Infrastructure.Tests.Repositories
             Assert.NotNull(person);
             Assert.Equal(expectedPerson.Id, person.Id);
             Assert.Equal(expectedPerson.FirstName, person.FirstName);
+            Assert.Equal(expectedPerson.LastName, person.LastName);
+            Assert.Equal(expectedPerson.Gender, person.Gender);
+            Assert.Equal(expectedPerson.Age, person.Age);
         }
 
         [Fact]
