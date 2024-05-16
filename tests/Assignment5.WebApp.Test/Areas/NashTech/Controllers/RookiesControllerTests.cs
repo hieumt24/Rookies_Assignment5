@@ -41,6 +41,52 @@ namespace Assignment5.WebApp.Test.Areas.NashTech.Controllers
         }
 
         [Fact]
+        public void Index_ReturnsViewResultNotNull_WithAllPersons()
+        {
+            // Arrange
+            var persons = new List<Person>
+            {
+                new Person { Id = Guid.NewGuid(), FirstName = "John", LastName = "Doe" },
+                new Person { Id = Guid.NewGuid(), FirstName = "Jane", LastName = "Smith" }
+            };
+            _mockPersonService.Setup(service => service.GetAll()).Returns(persons.AsQueryable());
+
+            // Act
+            var result = _controller.Index("h") as ViewResult;
+
+            // Assert
+            Assert.NotNull(result);
+            Assert.Equal("Index", result.ViewName);
+            var model = result.Model as IQueryable<Person>;
+            Assert.NotNull(model);
+            Assert.Equal(2, model.Count());
+        }
+
+        [Fact]
+        public void Index_ReturnsViewResultPage_WithAllPersons()
+        {
+            // Arrange
+            var persons = new List<Person>
+            {
+                new Person { Id = Guid.NewGuid(), FirstName = "John", LastName = "Doe" },
+                new Person { Id = Guid.NewGuid(), FirstName = "Jane", LastName = "Smith" }
+            };
+            _mockPersonService.Setup(service => service.GetAll()).Returns(persons.AsQueryable());
+            _controller.currentPage = 3;
+            _controller.countPages = 1;
+
+            // Act
+            var result = _controller.Index("h") as ViewResult;
+
+            // Assert
+            Assert.NotNull(result);
+            Assert.Equal("Index", result.ViewName);
+            var model = result.Model as IQueryable<Person>;
+            Assert.NotNull(model);
+            Assert.Equal(2, model.Count());
+        }
+
+        [Fact]
         public void Create_ReturnsViewResult()
         {
             // Act

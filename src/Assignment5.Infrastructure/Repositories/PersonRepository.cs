@@ -8,7 +8,6 @@ namespace Assignment5.Infrastructure.Repositories
     {
         public static readonly List<Person> listPeople = new List<Person>
         {
-
                 new Person
                 {
                 Id = Guid.NewGuid(),
@@ -119,10 +118,7 @@ namespace Assignment5.Infrastructure.Repositories
                 BirthPlace = "Ha Noi",
                 IsGraduated = false
                 }
-
-
         };
-
 
         public void AddPerson(Person person)
         {
@@ -132,7 +128,6 @@ namespace Assignment5.Infrastructure.Repositories
             }
             person.Id = Guid.NewGuid();
             listPeople.Add(person);
-
         }
 
         public void DeletePerson(Guid id)
@@ -143,16 +138,12 @@ namespace Assignment5.Infrastructure.Repositories
                 throw new ArgumentException("Person not found.", nameof(id));
             }
             listPeople.Remove(person);
-
         }
 
         public IEnumerable<Person> GetAllPerson()
         {
-
             return listPeople;
         }
-
-
 
         public void UpdatePerson(Person person)
         {
@@ -172,6 +163,7 @@ namespace Assignment5.Infrastructure.Repositories
                 existingPerson.IsGraduated = person.IsGraduated;
             }
         }
+
         public bool PersonExists(Guid id)
         {
             return listPeople.Any(p => p.Id == id);
@@ -186,7 +178,5 @@ namespace Assignment5.Infrastructure.Repositories
             }
             return person;
         }
-
-
     }
 }
